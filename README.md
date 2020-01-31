@@ -12,11 +12,4 @@ aa
 
 aaa
 
-ssssss
-a
-a
-aa
-aasss
-
-aaa
-a
+sss
